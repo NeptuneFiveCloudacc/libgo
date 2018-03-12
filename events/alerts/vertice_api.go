@@ -1,8 +1,8 @@
 package alerts
 
 import (
-	"github.com/megamsys/libgo/api"
-	constants "github.com/megamsys/libgo/utils"
+	"github.com/virtengine/libgo/api"
+	constants "github.com/virtengine/libgo/utils"
 	"strings"
 )
 

@@ -1,7 +1,7 @@
 package events
 
 import (
-	constants "github.com/megamsys/libgo/utils"
+	constants "github.com/virtengine/libgo/utils"
 	"time"
 )
 

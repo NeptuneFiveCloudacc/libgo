@@ -2,7 +2,7 @@ package alerts
 
 import (
 	"github.com/Bowery/slack"
-	constants "github.com/megamsys/libgo/utils"
+	constants "github.com/virtengine/libgo/utils"
 )
 
 type slacker struct {

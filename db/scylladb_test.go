@@ -2,7 +2,7 @@ package db
 
 import (
 	//	"fmt"
-	//  "github.com/megamsys/gocassa"
+	//  "github.com/virtengine/gocassa"
 	"gopkg.in/check.v1"
 	"testing"
 )

@@ -1,7 +1,7 @@
 package bills
 
 import (
-	"github.com/megamsys/libgo/utils"
+	"github.com/virtengine/libgo/utils"
 	"strconv"
 	"strings"
 )

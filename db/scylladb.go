@@ -2,8 +2,8 @@ package db
 
 import (
 	log "github.com/Sirupsen/logrus"
-	"github.com/megamsys/gocassa"
-	"github.com/megamsys/libgo/cmd"
+	"github.com/virtengine/gocassa"
+	"github.com/virtengine/libgo/cmd"
 )
 
 type RelationsFunc func() gocassa.Relation

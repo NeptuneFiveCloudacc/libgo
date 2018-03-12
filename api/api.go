@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	log "github.com/Sirupsen/logrus"
-	"github.com/megamsys/libgo/utils"
+	"github.com/virtengine/libgo/utils"
 	"io/ioutil"
 	"net/http"
 	"reflect"

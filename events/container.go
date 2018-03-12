@@ -2,7 +2,7 @@ package events
 
 import (
 	log "github.com/Sirupsen/logrus"
-	"github.com/megamsys/libgo/events/alerts"
+	"github.com/virtengine/libgo/events/alerts"
 )
 
 type Container struct {

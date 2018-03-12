@@ -2,7 +2,7 @@ package bills
 
 // import (
 // 	"fmt"
-//  constants   "github.com/megamsys/libgo/utils"
+//  constants   "github.com/virtengine/libgo/utils"
 //  "testing"
 // 	"gopkg.in/check.v1"
 // )

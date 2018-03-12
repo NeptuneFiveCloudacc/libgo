@@ -2,7 +2,7 @@ package alerts
 
 import (
 	log "github.com/Sirupsen/logrus"
-	constants "github.com/megamsys/libgo/utils"
+	constants "github.com/virtengine/libgo/utils"
 	"net/smtp"
 	"strings"
 )

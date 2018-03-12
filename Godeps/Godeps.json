@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/megamsys/libgo",
+	"ImportPath": "github.com/virtengine/libgo",
 	"GoVersion": "go1.8",
 	"GodepVersion": "v79",
 	"Packages": [
@@ -28,37 +28,37 @@
 			"Rev": "e80d13ce29ede4452c43dea11e79b9bc8a15b478"
 		},
 		{
-			"ImportPath": "github.com/megamsys/gocassa",
+			"ImportPath": "github.com/virtengine/gocassa",
 			"Comment": "v1.2.0-8-g1f20528",
 			"Rev": "1f20528f57d946d4366bb692b3a26653941efed9"
 		},
 		{
-			"ImportPath": "github.com/megamsys/gocassa/reflect",
+			"ImportPath": "github.com/virtengine/gocassa/reflect",
 			"Comment": "v1.2.0-8-g1f20528",
 			"Rev": "1f20528f57d946d4366bb692b3a26653941efed9"
 		},
 		{
-			"ImportPath": "github.com/megamsys/gocql",
+			"ImportPath": "github.com/virtengine/gocql",
 			"Comment": "pre-node-events-222-g6cc8c4b",
 			"Rev": "6cc8c4b282a6ba012e70b8ff9da2e4457a005d59"
 		},
 		{
-			"ImportPath": "github.com/megamsys/gocql/internal/lru",
+			"ImportPath": "github.com/virtengine/gocql/internal/lru",
 			"Comment": "pre-node-events-222-g6cc8c4b",
 			"Rev": "6cc8c4b282a6ba012e70b8ff9da2e4457a005d59"
 		},
 		{
-			"ImportPath": "github.com/megamsys/gocql/internal/murmur",
+			"ImportPath": "github.com/virtengine/gocql/internal/murmur",
 			"Comment": "pre-node-events-222-g6cc8c4b",
 			"Rev": "6cc8c4b282a6ba012e70b8ff9da2e4457a005d59"
 		},
 		{
-			"ImportPath": "github.com/megamsys/gocql/internal/streams",
+			"ImportPath": "github.com/virtengine/gocql/internal/streams",
 			"Comment": "pre-node-events-222-g6cc8c4b",
 			"Rev": "6cc8c4b282a6ba012e70b8ff9da2e4457a005d59"
 		},
 		{
-			"ImportPath": "github.com/megamsys/whmcs_go/whmcs",
+			"ImportPath": "github.com/virtengine/whmcs_go/whmcs",
 			"Rev": "cc294cec29502307c795c0f07f5fb2c6283800cd"
 		},
 		{

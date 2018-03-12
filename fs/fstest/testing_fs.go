@@ -17,8 +17,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/megamsys/libgo/fs"
-	"github.com/megamsys/libgo/safe"
+	"github.com/virtengine/libgo/fs"
+	"github.com/virtengine/libgo/safe"
 )
 
 // FakeFile represents a fake instance of the File interface.

@@ -2,7 +2,7 @@ package db
 
 import (
 	log "github.com/Sirupsen/logrus"
-	"github.com/megamsys/libgo/cmd"
+	"github.com/virtengine/libgo/cmd"
 )
 
 type Options struct {

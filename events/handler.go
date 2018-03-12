@@ -3,7 +3,7 @@ package events
 import (
 	"errors"
 	log "github.com/Sirupsen/logrus"
-	"github.com/megamsys/libgo/utils"
+	"github.com/virtengine/libgo/utils"
 	"sort"
 	"sync"
 	"time"

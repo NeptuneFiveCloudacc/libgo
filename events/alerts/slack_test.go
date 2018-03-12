@@ -1,7 +1,7 @@
 package alerts
 
 import (
-	constants "github.com/megamsys/libgo/utils"
+	constants "github.com/virtengine/libgo/utils"
 	"gopkg.in/check.v1"
 	"os"
 )

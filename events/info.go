@@ -2,9 +2,9 @@ package events
 
 import (
 	"encoding/json"
-	"github.com/megamsys/libgo/events/alerts"
-	"github.com/megamsys/libgo/pairs"
-	constants "github.com/megamsys/libgo/utils"
+	"github.com/virtengine/libgo/events/alerts"
+	"github.com/virtengine/libgo/pairs"
+	constants "github.com/virtengine/libgo/utils"
 	"strconv"
 	"time"
 )

@@ -17,7 +17,7 @@ package bills
 
 import (
 	"encoding/json"
-	"github.com/megamsys/libgo/api"
+	"github.com/virtengine/libgo/api"
 )
 
 const (

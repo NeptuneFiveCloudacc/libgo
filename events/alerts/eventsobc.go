@@ -2,8 +2,8 @@ package alerts
 
 import (
 	log "github.com/Sirupsen/logrus"
-	ldb "github.com/megamsys/libgo/db"
-	constants "github.com/megamsys/libgo/utils/obc"
+	ldb "github.com/virtengine/libgo/db"
+	constants "github.com/virtengine/libgo/utils/obc"
 	"github.com/pborman/uuid"
 	"time"
 )

@@ -12,7 +12,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/megamsys/libgo/fs"
+	"github.com/virtengine/libgo/fs"
 	"gopkg.in/check.v1"
 )
 

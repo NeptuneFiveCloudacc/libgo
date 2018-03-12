@@ -22,7 +22,7 @@ import (
 	"sync"
 
 	log "github.com/Sirupsen/logrus"
-	"github.com/megamsys/libgo/cmd"
+	"github.com/virtengine/libgo/cmd"
 )
 
 // Result is the value returned by Forward. It is used in the call of the next

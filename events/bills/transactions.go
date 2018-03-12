@@ -17,8 +17,8 @@ package bills
 
 import (
 	log "github.com/Sirupsen/logrus"
-	"github.com/megamsys/libgo/api"
-	"github.com/megamsys/libgo/utils"
+	"github.com/virtengine/libgo/api"
+	"github.com/virtengine/libgo/utils"
 	"gopkg.in/yaml.v2"
 )
 
