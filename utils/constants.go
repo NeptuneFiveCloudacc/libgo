@@ -211,6 +211,8 @@ const (
 	LCMSTATECHECK = "check_lcmstate"
 	VMSTATECHECK  = "check_vmstate"
 	WAITUNTILL    = "waituntill"
+	RESIZING      = "resizing"
+	RESIZED       = "resized"
 
 	VNCHOSTUPDATING    = "vnchostupdating"
 	VNCHOSTUPDATED     = "vnchostupdated"
@@ -295,8 +297,9 @@ const (
 	StateMachineParked         = State(PARKED)
 	// StateLaunched is the milestone state for box after launched in cloud.
 	StateInitializing = State(INITIALIZING)
-
-	StateInitialized = State(INITIALIZED)
+	StateInitialized  = State(INITIALIZED)
+	StateResizing     = State(RESIZING)
+	StateResized      = State(RESIZED)
 
 	// StateBootstrapped is the milestone state for box after being booted by the agent in cloud
 	StateBootstrapped = State(BOOTSTRAPPED)
@@ -325,6 +328,7 @@ const (
 	StatusQuotaUnpaid      = Status(QUOTA_UNPAID)
 
 	StatusVMBooting      = Status(VMBOOTING)
+	StatusInitializing   = Status(INITIALIZING)
 	StatusInitialized    = Status(INITIALIZED)
 	StatusNetworkUnavail = Status(NETWORK_UNAVAIL)
 
@@ -378,6 +382,8 @@ const (
 	StatusLcmStateChecking = Status(LCMSTATECHECK)
 	StatusWaitUntill       = Status(WAITUNTILL)
 	StatusVmStateChecking  = Status(VMSTATECHECK)
+	StatusResizing         = Status(RESIZING)
+	StatusResized          = Status(RESIZED)
 
 	StatusCookbookDownloading = Status(COOKBOOKDOWNLOADING)
 	StatusCookbookDownloaded  = Status(COOKBOOKDOWNLOADED)

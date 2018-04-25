@@ -15,7 +15,12 @@ type AfterFuncs []AfterFunc
 type AfterFuncsMap map[alerts.EventAction]AfterFuncs
 
 var notifiers map[string]alerts.Notifier
-var Enabler map[string]bool = map[string]bool{constants.SMTP: false, constants.INFOBIP: false, constants.SLACK: false, constants.BILLMGR: false}
+var Enabler map[string]bool = map[string]bool{
+	constants.SMTP:    false,
+	constants.INFOBIP: false,
+	constants.SLACK:   false,
+	constants.BILLMGR: false,
+}
 
 type User struct {
 	stop chan struct{}
